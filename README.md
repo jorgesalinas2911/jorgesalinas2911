@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Jorge Armando Salinas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1EF70C&background=0D1F0000&repeat=false&width=435&lines=Hi%2C+I'm+Jorge+Armando+Salinas_" alt="Typing SVG" /><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a>
 <hr>
 <h1 align="center">About Me! 😎</h1>
 
