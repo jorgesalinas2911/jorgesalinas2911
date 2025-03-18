@@ -1,7 +1,7 @@
-<p align=center>
+<p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=1EF70C&background=0D1F0000&center=true&width=435&lines=Hi%2C+I'm+Jorge+Armando+Salinas_" alt="Typing SVG" /></a>
+  <img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 </p>
-<img align="center" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <hr>
 <h1 align="center">About Me! 😎</h1>
