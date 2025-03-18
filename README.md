@@ -21,8 +21,14 @@
 <h1>Languages</h1>
 <Br>
 
-|![](https://skillicons.dev/icons?i=html)|![](https://skillicons.dev/icons?i=css)|![](https://skillicons.dev/icons?i=ruby)|![](https://skillicons.dev/icons?i=py)|
-|---|---|---|---|
+|![](https://skillicons.dev/icons?i=html)|![](https://skillicons.dev/icons?i=css)|![](https://skillicons.dev/icons?i=ruby)|![](https://skillicons.dev/icons?i=py)|![](https://skillicons.dev/icons?i=postgre)|
+|---|---|---|---|---|
+
+<h1>Frameworks</h1>
+<Br>
+
+|![](https://skillicons.dev/icons?i=sass)|![](https://skillicons.dev/icons?i=rails)|
+|---|---|
 
 <Br>
 <hr>
