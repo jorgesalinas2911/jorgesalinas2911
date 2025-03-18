@@ -1,6 +1,5 @@
 <h1 align="center">Hi , I'm Jorge Armando Salinas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <hr>
-<Br>
 <h1 align="center">About Me! 😎</h1>
 
 - 🏫: Im a software engineer.
