@@ -19,9 +19,9 @@
 <h1 align="center">Skills</h1>
 <Br>
  
-|[!(https://skillicons.dev/icons?i=py)]|!![](https://skillicons.dev/icons?i=html5)]|![](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)|![](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)|![](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)|
+|![](https://skillicons.dev/icons?i=py)|![](https://skillicons.dev/icons?i=html)|![](https://skillicons.dev/icons?i=html)|![](https://skillicons.dev/icons?i=html)|![](https://skillicons.dev/icons?i=html)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)|![](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)|![](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)|![](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+|![](https://skillicons.dev/icons?i=py)|![](https://skillicons.dev/icons?i=html)|![](https://skillicons.dev/icons?i=html)|![](https://skillicons.dev/icons?i=html)|![](https://skillicons.dev/icons?i=html)|
   
 
 <Br>
