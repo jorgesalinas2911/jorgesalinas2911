@@ -18,16 +18,22 @@
 <Br>
 <h1 align="center">Skills</h1>
 <Br>
-<h1>Languages</h1>
+<h2>Languages</h2>
 <Br>
 
-|![](https://skillicons.dev/icons?i=html)|![](https://skillicons.dev/icons?i=css)|![](https://skillicons.dev/icons?i=ruby)|![](https://skillicons.dev/icons?i=py)|![](https://skillicons.dev/icons?i=postgre)|
-|---|---|---|---|---|
+|![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)|![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)|![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|
+|---|---|---|---|
 
-<h1>Frameworks</h1>
+<h2>Frameworks</h2>
 <Br>
 
-|![](https://skillicons.dev/icons?i=sass)|![](https://skillicons.dev/icons?i=rails)|
+|![](https://skillicons.dev/icons?i=sass)|![](https://skillicons.dev/icons?i=rails)|![](https://skillicons.dev/icons?i=bootstrap)|
+|---|---|---|
+
+<h2>Tools</h2>
+<Br>
+
+|![](https://skillicons.dev/icons?i=vscode)|![](https://skillicons.dev/icons?i=notion)|![](https://skillicons.dev/icons?i=codepen)|
 |---|---|
 
 <Br>
