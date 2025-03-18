@@ -27,8 +27,8 @@
 <h2>Frameworks</h2>
 <Br>
 
-|![](https://skillicons.dev/icons?i=sass)|![](https://skillicons.dev/icons?i=rails)|![](https://skillicons.dev/icons?i=bootstrap)|
-|---|---|---|
+|![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)|![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)|![Hugo](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)|![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)|![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)|
+|---|---|---|---|---|
 
 <h2>Tools</h2>
 <Br>
