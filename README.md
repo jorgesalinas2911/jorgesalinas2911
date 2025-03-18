@@ -18,7 +18,7 @@
 - 🔭 I’m currently open to work and learn a lot
 - 🌱 I’m currently learning about coding in Python and Ruby on Rails
 - 👯 I’m open to collaborate in projects
-- 💬 Im bilingual (🇻🇪 and 🇺🇸)
+- 💬 Im bilingual (:venezuela: and :us:)
 - 📫 How to reach me: Contact part
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I never thought I would become a .net programmer!
