@@ -16,11 +16,11 @@
 </p>
 
 - 🔭 I’m currently open to work and learn a lot
+- 📍  I’m from Maracaibo,Venezuela but I currently live in Katy, Texas.
 - 🌱 I’m currently learning about coding in Python and Ruby on Rails
 - 👯 I’m open to collaborate in projects
-- 💬 Im bilingual (:venezuela: and :us:)
-- 📫 How to reach me: Contact part
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I never thought I would become a .net programmer!
+- 💬 Im bilingual (🇪🇸 and 🇺🇸)
+- 📫 How to reach me: 
+- ⚡ Fun fact: I'm into videogames🎮, music🎶, design🎨 and coffee☕ ! 
 
 <br>
