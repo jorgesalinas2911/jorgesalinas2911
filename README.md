@@ -33,8 +33,8 @@
 <h2>Tools</h2>
 <Br>
 
-|![](https://skillicons.dev/icons?i=vscode)|![](https://skillicons.dev/icons?i=notion)|![](https://skillicons.dev/icons?i=codepen)|
-|---|---|
+|![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)|![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)|![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)|
+|---|---|---|
 
 <Br>
 <hr>
