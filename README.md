@@ -18,12 +18,11 @@
 <Br>
 <h1 align="center">Skills</h1>
 <Br>
-<h1>Languages</h1> 
+<h1>Languages</h1>
+<Br>
+
 |![](https://skillicons.dev/icons?i=py)|![](https://skillicons.dev/icons?i=html)|![](https://skillicons.dev/icons?i=css)|![](https://skillicons.dev/icons?i=rails)|
 |---|---|---|---|
-
-
-  
 
 <Br>
 <hr>
