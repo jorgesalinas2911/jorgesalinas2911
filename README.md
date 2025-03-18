@@ -11,15 +11,16 @@
 
 <picture> <img align="right" src="https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width = 400px></picture>
  <p align="left">
-  <img src="https://img.shields.io/badge/Focus-Backend%20Development-dodgerblue" />
+  <img src="https://img.shields.io/badge/Focus-FrontEnd%20Development-dodgerblue" />
   <img src="https://img.shields.io/badge/Languages-English-dodgerblue" />
+  <img src="https://img.shields.io/badge/Languages-Spanish-dodgerblue" />
 </p>
 
 - 🔭 I’m currently open to work and learn a lot
 - 📍  I’m from Maracaibo,Venezuela but I currently live in Katy, Texas.
 - 🌱 I’m currently learning about coding in Python and Ruby on Rails
 - 👯 I’m open to collaborate in projects
-- 💬 Im bilingual (🇪🇸 and 🇺🇸)
+- 💬 I’m bilingual (🇪🇸 and 🇺🇸)
 - 📫 How to reach me: 
 - ⚡ Fun fact: I'm into videogames🎮, music🎶, design🎨 and coffee☕ ! 
 
