@@ -15,5 +15,5 @@
 <h1 align="center">Get in Touch! 📬</h1>
 <Br>
 <p align="center">
-<a href="https://www.linkedin.com/in/jorgeasalinasm" target="blank"><img align="center" src="https://img.shields.io/badge/Jorge Salinas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:aryagm01@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/jasm291183@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/jorgesalinas2911" target="blank"><img align="center" src="https://img.shields.io/badge/jorgesalinas2911-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/jorgeasalinasm" target="blank"><img align="center" src="https://img.shields.io/badge/Jorge Salinas-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  <a href="mailto:jasm291183@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/jasm291183@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       <a href="https://www.github.com/jorgesalinas2911" target="blank"><img align="center" src="https://img.shields.io/badge/jorgesalinas2911-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
