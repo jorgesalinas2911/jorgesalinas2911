@@ -55,8 +55,8 @@
 		<img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" style="height: 45px;"></a>
            <a style="margin-left: 10px;" target="_blank" href="https://">
 		<img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" style=" height:45px;"></a>
-	      <a style="margin-left: 5px;" target="_blank" href="">
-					<img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
+	      <a style="margin-left: 5px;" target="_blank" href="https://jorgesalinasweb.netlify.app/">
+					<img src="https://img.icons8.com/?size=100&id=AupK2f9cpGts&format=png&color=000000" style="height:40px;"></a>
       </div>
 
 </p>
