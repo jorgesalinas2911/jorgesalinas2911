@@ -51,10 +51,10 @@
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a   target="_blank" href="https://www.linkedin.com/in/jorgeasalinasm/">
 			<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" style="margin-left: 10px; height:45px;" ></a>
-        <a style="margin-left: 10px;" target="_blank" href="">
-		<img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" style="height: 45px;"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/jorgesalinas2911">
+		<img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" style="height: 45px;"></a>
            <a style="margin-left: 10px;" target="_blank" href="https://">
-		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
+		<img src="https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000" style=" height:45px;"></a>
 	      <a style="margin-left: 5px;" target="_blank" href="">
 					<img src="https://img.icons8.com/ultraviolet/2x/resume.png" style=" width:37px; height:40px;"></a>
       </div>
