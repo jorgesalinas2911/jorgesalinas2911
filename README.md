@@ -25,3 +25,22 @@
 - ⚡ Fun fact: I'm into videogames🎮, music🎶, design🎨 and coffee☕ ! 
 
 <br>
+
+**Skills & Tools**
+
+<p align="center">
+
+- **Languages**:
+    
+     
+  
+- **Front-End Development**:
+
+   
+
+- **Softwares and Tools**:
+![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white)
+    
+
+<br>
+</p>
