@@ -52,7 +52,7 @@
         <a   target="_blank" href="https://www.linkedin.com/in/jorgeasalinasm/">
 			<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" style="margin-left: 10px; height:45px;" ></a>
         <a style="margin-left: 10px;" target="_blank" href="">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+		<img src="https://img.icons8.com/?size=100&id=12599&format=png&color=000000" style="height: 45px;"></a>
            <a style="margin-left: 10px;" target="_blank" href="https://">
 		<img src="https://img.icons8.com/doodle/2x/gmail-new.png" style=" width:35px; height:43px;"></a>
 	      <a style="margin-left: 5px;" target="_blank" href="">
