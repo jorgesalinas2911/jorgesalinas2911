@@ -25,6 +25,7 @@
 - ⚡ Fun fact: I'm into videogames🎮, music🎶, design🎨 and coffee☕ ! 
 
 <Br>
+
 -----
 
 <h3 align="center" >Skills and tools 🛠️ </h3>
