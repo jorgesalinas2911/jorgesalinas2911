@@ -50,7 +50,7 @@
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
         <a   target="_blank" href="https://www.linkedin.com/in/jorgeasalinasm/">
-			<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" style="margin-left: 10px; width="35" ></a>
+			<img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" style="margin-left: 10px; width="35px" ></a>
         <a style="margin-left: 10px;" target="_blank" href="">
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
            <a style="margin-left: 10px;" target="_blank" href="https://">
